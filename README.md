@@ -15,9 +15,9 @@ Install Python 3.10+ and:
 
 Repo files:
 
-- `housegymrl.py` — custom Gymnasium env  
+- `housegymrl.py` — env  
 - `baseline.py` — SJF/LJF/Random heuristic allocators  
-- `evaluate.py` — daily alignment, metrics (AUC@T, t90), plotting, multi-seed aggregation   
+- `evaluate.py` — daily alignment, metrics, plotting, multi-seed   
 - `multiseed_eval.ipynb` — multi-seed evaluation notebook  
 
 
